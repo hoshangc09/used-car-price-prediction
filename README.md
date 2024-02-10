@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts a Jupyter notebook that outlines the creation of a predictive model for used car pricing. Aimed at assisting used car dealerships, this model helps in understanding the critical factors influencing vehicle prices, thereby guiding inventory and pricing decisions.
+This repository hosts a Jupyter notebook that outlines the creation of a predictive model for used car pricing. Aimed at assisting a used car dealership, this model helps in understanding the critical factors influencing vehicle prices, thereby guiding inventory and pricing decisions.
 
 ## CRISP-DM Framework
 
