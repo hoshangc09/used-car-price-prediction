@@ -18,7 +18,7 @@ The project is structured around the CRISP-DM methodology, ensuring a systematic
 ## Repository Contents
 
 - `vehicles-1.csv` to `vehicles-5.csv`: Partial datasets for the modeling.
-- `Used_Car_Pricing_Prediction.ipynb`: The main Jupyter notebook with the analysis and modeling steps.
+- `Used_Car_Pricing_Prediction_Hoshang_Chenoy.ipynb`: The main Jupyter notebook with the analysis and modeling steps.
 
 ## Getting Started
 
