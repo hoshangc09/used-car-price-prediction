@@ -25,8 +25,7 @@ The project is structured around the CRISP-DM methodology, ensuring a systematic
 To interact with the predictive model:
 
 1. Clone the repository to your local machine.
-2. Install all required packages listed in `requirements.txt`.
-3. Execute the Jupyter notebook to view the model-building process and tweak as needed.
+2. Execute the Jupyter notebook to view the model-building process and tweak as needed.
 
 ## Insights for Dealerships
 
