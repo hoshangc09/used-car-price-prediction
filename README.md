@@ -48,7 +48,3 @@ Guidance on model interpretation, staff training for process integration, and qu
 
 For questions, support, or contributions, please open an issue in this repository or contact the project maintainers.
 
-## License
-
-This project is released under the MIT License - see [LICENSE](LICENSE.md) for details.
-
