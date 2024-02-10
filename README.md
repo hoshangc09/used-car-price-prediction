@@ -18,11 +18,6 @@ This project follows the CRISP-DM process, a standard in the industry for data p
 ## Repository Structure
 
 - `data/`: Folder containing the dataset used for modeling.
-- `notebooks/`: Jupyter notebooks with exploratory data analysis and modeling steps.
-- `models/`: Serialized final model objects ready for deployment.
-- `images/`: Visual aids and graphs generated from the analysis.
-- `scripts/`: Python scripts for preprocessing, model training, and evaluation.
-- `reports/`: Final report and presentation slides for stakeholders.
 
 ## Usage
 
